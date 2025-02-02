@@ -28,7 +28,8 @@ This project is a quiz game built using React. It fetches questions from an exte
 ## Video Walkthrough
 
 Watch the video walkthrough of the project here:  
-[Interactive Quiz Application with Gamification - React Project Walkthrough](https://youtu.be/1iCkHJD_bBE)
+[Interactive Quiz Application with Gamification - React Project Walkthrough](https://drive.google.com/file/d/1LpuH2aEGRVkeBht751Ca3KrnA9CRiRg6/view?usp=drivesdk)
+)
 
 
 ## Screenshots
