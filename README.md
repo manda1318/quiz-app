@@ -36,6 +36,8 @@ Watch the video walkthrough of the project here:
 ### Home Page
 
 ![Home Page Screenshot](./src/assests/home.png)
+![image](https://github.com/user-attachments/assets/a0caefa8-9090-4091-9d54-203f85579693)
+
 
 ### Quiz Page
 
