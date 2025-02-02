@@ -42,10 +42,14 @@ Watch the video walkthrough of the project here:
 ### Quiz Page
 
 ![Quiz Page Screenshot](./src/assests/quiz.png)
+![image](https://github.com/user-attachments/assets/f9615b57-5257-4785-be31-0a00d1c220f9)
+
 
 ### Results Page
 
 ![Results Page Screenshot](./src/assests/result.png)
+![image](https://github.com/user-attachments/assets/80324a39-0b93-4063-946d-67fe44b502ef)
+
 
 ```
 
